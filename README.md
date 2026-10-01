@@ -8,7 +8,7 @@ Public showcase of a construction company CRM. The product brings project tracki
 >
 > All names, users, phone numbers, amounts, and dates shown below are fictional. This repository contains no source code, API endpoints, infrastructure configuration, or production data.
 
-![Construction CRM projects](assets/projects.png)
+![Construction CRM projects](assets/projects.jpg)
 
 ## Русский
 
@@ -110,19 +110,11 @@ The CRM supports a construction company's daily operations from project registra
 
 ### Analytics / Аналитика
 
-![Construction CRM analytics](assets/analytics.png)
-
-### Project workspace / Карточка объекта
-
-![Construction project workspace](assets/project-detail.png)
+![Construction CRM analytics](assets/analytics.jpg)
 
 ### Materials / Материалы
 
-![Construction materials catalog](assets/materials.png)
-
-### Users and roles / Пользователи и роли
-
-![Construction CRM users](assets/users.png)
+![Construction materials catalog](assets/materials.jpg)
 
 ## Architecture / Архитектура
 
